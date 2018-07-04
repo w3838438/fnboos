@@ -1,1 +1,1 @@
-{"url":"http://ddsdd.baidu.com"}
+{"url":"http://m.ttfnyl.info"}
